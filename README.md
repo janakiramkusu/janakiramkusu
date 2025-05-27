@@ -43,21 +43,7 @@
 
 ---
 
-📈 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janakiramkusu&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janakiramkusu&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
-📜 **Certifications**
-
-- ✅ NPTEL Certified: Python, Java, DBMS
-- ✅ Full Stack Web Dev Bootcamp (Udemy)
-
----
 
 📱 **Connect With Me**
 
@@ -71,6 +57,3 @@
   
 </p>
 
----
-
-⚡ *“Build things that matter. Learn continuously. Share openly.”*
