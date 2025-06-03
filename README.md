@@ -6,7 +6,7 @@
 🌟 **About Me**
 
 - 🎓 I'm a 3rd-year CSE student at **Sasi Institute of Technology and Engineering**, passionate about full-stack development and building impactful projects.
-- 🛠️ Currently working on: [**Realtime Translator**](https://github.com/kusujanakiram/Realtime-Translation) – A real-time voice & text translator with download and history features.
+- 🛠️ Currently working on: [**Realtime Translator**](https://github.com/janakiramkusu/Anuvadham.git) – A real-time voice & text translator with download and history features.
 - 📚 Currently learning: **Tailwind CSS**, **Django**
 - 🔍 Actively exploring backend services, cloud integration, and AI tools.
 - 📫 Reach me at: **kusujanakiram5@gmail.com**
