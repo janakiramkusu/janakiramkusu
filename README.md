@@ -6,7 +6,7 @@
 🌟 **About Me**
 
 - 🎓 I'm a final-year CSE student at **Sasi Institute of Technology and Engineering**, passionate about full-stack development and building impactful projects.
-- 🛠️ Currently working on: MedSpeaking Bot – A healthcare-focused conversational assistant that provides basic medical guidance in regional languages, similar to an RMP doctor for primary healthcare needs.
+- 🛠️ Currently working on: **MedSpeaking Bot** – A healthcare-focused conversational assistant that provides basic medical guidance in regional languages, similar to an RMP doctor for primary healthcare needs.
 - 🔍 Actively exploring backend services, cloud integration, and AI tools.
 - 📫 Reach me at: **kusujanakiram5@gmail.com**
 - 🌐 Portfolio: [janakiramkusu.github.io/portifolio](https://janakiramkusu.github.io/portifolio/)
