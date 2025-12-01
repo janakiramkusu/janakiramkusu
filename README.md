@@ -5,22 +5,25 @@
 
 🌟 **About Me**
 
-- 🎓 I'm a 3rd-year CSE student at **Sasi Institute of Technology and Engineering**, passionate about full-stack development and building impactful projects.
-- 🛠️ Currently working on: [**Realtime Translator**](https://github.com/janakiramkusu/Anuvadham.git) – A real-time voice & text translator with download and history features.
-- 📚 Currently learning: **Tailwind CSS**, **Django**
+- 🎓 I'm a final-year CSE student at **Sasi Institute of Technology and Engineering**, passionate about full-stack development and building impactful projects.
+- 🛠️ Currently working on: MedSpeaking Bot – A healthcare-focused conversational assistant that provides basic medical guidance in regional languages, similar to an RMP doctor for primary healthcare needs.
 - 🔍 Actively exploring backend services, cloud integration, and AI tools.
 - 📫 Reach me at: **kusujanakiram5@gmail.com**
 - 🌐 Portfolio: [janakiramkusu.github.io/portifolio](https://janakiramkusu.github.io/portifolio/)
 
 --
 
-🧑‍💻 **Projects I've Built** 
+🧑‍💻 **Projects I've Built**
+
+- 🏥 [DocSpot — Doctor Appointment System](https://github.com/janakiramkusu/DocSpot)  
+  MERN-based platform for booking and managing doctor appointments with secure role access for doctors, patients, and admins.
 
 - 🔁 [Realtime Translator](https://github.com/kusujanakiram/Realtime-Translation)  
   Real-time multilingual translator with speech-to-text, text-to-speech, and downloadable history (text + audio).
   
 - 🍽️ [Restaurant Management System](https://github.com/kusujanakiram/Restaurant-Management)  
-  MERN stack-based platform for restaurants to manage their products and viewable menus for users.
+  MERN stack-based platform for restaurants to manage their products and display menus to users.
+
 
 --
 
